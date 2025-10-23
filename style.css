@@ -1,0 +1,35 @@
+/*ESTILOS GENERALES*/
+
+body {
+  color: rgb(145, 93, 25);
+}
+
+/*ESTILOS DE NAVEGACION Y NAVEGACION A*/
+
+.enlaces-nav {
+  font-size: 40px;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  background-color: rgb(0, 0, 0);
+  padding: 30px;
+}
+  
+.enlaces-nav a {
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+
+}
+
+.enlaces-nav img {
+  position: fixed;
+  left: 20px;
+  width: 100px; /* ajusta el tamaño del logo */
+  height: auto;
+  margin: 0px;
+}
+
+.ContenidoLetter pxº{
+
+
+
+}
